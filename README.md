@@ -1,5 +1,3 @@
-# StrengthPredict
-
 # StrengthPredict: Concrete Compressive Strength Prediction using Regression Models
 
 This project explores the prediction of concrete compressive strength using various regression techniques, including linear regression with normal equations, gradient descent methods, and polynomial regression models. It was developed as part of the ID5030 - Machine Learning for Engineering and Science Applications course.
